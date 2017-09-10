@@ -1,4 +1,4 @@
-# Thermoelectric Cooler Fridge
+# TEC Fridge
 
 ## Description
 Arduino code to control thermoelectric coolers wired to an H-bridge with PWM. PWM output is filtered using a LC low-pass filter to ensure an analog signal.
